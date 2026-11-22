@@ -12,4 +12,6 @@ SC-NC-RESEARCH — repository foundation
 
 SC-NC Research is being built as the research layer split out of SC-NeuroCore: the hypothesis manifests and scoped experiments that frame exploratory work, and the research packages that build on every other SC-NC repository. It imports the SC-NC repositories before it in the split order, from SC-NC Core to SC-NC Bench. Its current executable surface is repository validation tooling. It has no installed experiment runner, hypothesis registry, research package or qualified record schema.
 
+SC-NC Research is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
